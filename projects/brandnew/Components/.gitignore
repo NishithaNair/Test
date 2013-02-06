@@ -1,4 +1,4 @@
 #################
 # Include the Release build output for components so other projects can reference them.
-![Rr]elease/
 
+!projects/brandnew/Components/ClassLibrary1/ClassLibrary1/bin/Release/*
